@@ -31,7 +31,6 @@ To detect inconsistencies that are invisible to the human eye, we apply two prim
 MSE measures the average of the squares of the errors—that is, the average squared difference between the estimated values and the actual value.
 
 * **Formula:** The error is calculated as:
-* 
         <img width="494" height="112" alt="Image" src="https://github.com/user-attachments/assets/4ae6b6f3-19b3-462d-b5f4-fc9902efc057" />
 
 
