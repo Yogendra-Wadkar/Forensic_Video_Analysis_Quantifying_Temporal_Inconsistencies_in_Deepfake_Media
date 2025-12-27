@@ -29,6 +29,10 @@ The value of this analysis lies in its **temporal visualization**. By plotting e
 
 ---
 
+<img width="1121" height="593" alt="Image" src="https://github.com/user-attachments/assets/04e8d341-41c5-4920-b429-760178ba9dd5" />
+
+---
+
 ### 🚀 Getting Started
 
 Refer to the `Description` folder for a detailed technical breakdown of the mathematical proofs and the `Requirements` file to set up your local environment for forensic analysis.
