@@ -57,12 +57,6 @@ For the analyzed **Video #033**, we observed:
 
 ---
 
-Here is the updated **Description Section 5**, specifically designed to showcase your **'Deepfake Flicker Analysis: MSE Over Time'** graph.
-
-This section is written to highlight your ability to interpret data and identify the "fingerprints" of AI manipulation through temporal inconsistencies.
-
----
-
 ## 5. Temporal Flicker Analysis: The Digital Fingerprint
 
 While spatial analysis looks at individual frames, **Temporal Flicker Analysis** focuses on the consistency of the video over time. Deepfake generation models often struggle to maintain "temporal coherence"—meaning the AI-generated face may slightly shift, change lighting, or glitch for just a few milliseconds.
